@@ -1,1 +1,1 @@
-# Ridge-Regression-Project
+# Ridge Regression Project
