@@ -15,4 +15,4 @@ The [code](https://github.com/jidafan/Ridge-Regression-Project/blob/main/STA315%
 
 ### Report
 
-
+The [report](https://github.com/jidafan/Ridge-Regression-Project/blob/main/STA315%20Final%20Project.pdf) details a review of the paper, and documents the findings that were gathered from the coded simulation of the various methods used to generate a ridge parameter.
